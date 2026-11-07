@@ -1,0 +1,24 @@
+name = "trendy-lifestyle-hub"
+main = "src/worker.js"
+compatibility_date = "2026-10-31"
+workers_dev = true
+
+[assets]
+directory = "./public"
+binding = "ASSETS"
+run_worker_first = true
+
+[[d1_databases]]
+binding = "DB"
+database_name = "trendy-lifestyle-hub"
+database_id = "REPLACE-WITH-YOUR-D1-DATABASE-ID"
+migrations_dir = "migrations"
+
+# Enable after confirming Workers AI is available in your account.
+# [ai]
+# binding = "AI"
+
+# Create this bucket in Cloudflare R2 before uncommenting.
+# [[r2_buckets]]
+# binding = "MEDIA"
+# bucket_name = "trendy-lifestyle-hub-media"

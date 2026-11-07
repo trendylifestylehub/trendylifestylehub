@@ -1,0 +1,150 @@
+{
+  "categories": [
+    {
+      "name": "Fashion",
+      "slug": "fashion",
+      "description": "Discover clothing, everyday outfits and seasonal style finds.",
+      "image": "/assets/category-1.jpg"
+    },
+    {
+      "name": "Bags & Travel",
+      "slug": "bags-travel",
+      "description": "Explore handbags, wallets, luggage and practical travel accessories.",
+      "image": "/assets/category-2.jpg"
+    },
+    {
+      "name": "Beauty & Self Care",
+      "slug": "beauty-self-care",
+      "description": "Browse beauty, skincare and personal-care discoveries.",
+      "image": "/assets/category-3.jpg"
+    },
+    {
+      "name": "Accessories",
+      "slug": "accessories",
+      "description": "Find finishing touches and useful everyday accessories.",
+      "image": "/assets/category-4.jpg"
+    },
+    {
+      "name": "Watches & Jewellery",
+      "slug": "watches-jewellery",
+      "description": "Explore watches and jewellery for everyday and occasion styling.",
+      "image": "/assets/category-5.jpg"
+    },
+    {
+      "name": "Shoes",
+      "slug": "shoes",
+      "description": "Discover footwear for casual, work and occasion wear.",
+      "image": "/assets/category-6.jpg"
+    },
+    {
+      "name": "Perfumes",
+      "slug": "perfumes",
+      "description": "Explore fragrance discoveries and scent inspiration.",
+      "image": "/assets/category-7.jpg"
+    },
+    {
+      "name": "Phone Accessories",
+      "slug": "phone-accessories",
+      "description": "Browse phone cases and practical mobile accessories.",
+      "image": "/assets/category-8.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": "builtin-1",
+      "name": "Floral Summer Dress",
+      "category": "Dresses",
+      "category_slug": "fashion",
+      "description": "Explore this product and confirm its current details with the retailer.",
+      "image": "/assets/product-1.jpg",
+      "price": null,
+      "affiliate_url": null,
+      "featured": 0,
+      "published": 0
+    },
+    {
+      "id": "builtin-2",
+      "name": "Elegant Everyday Handbag",
+      "category": "Handbags",
+      "category_slug": "bags-travel",
+      "description": "Explore this product and confirm its current details with the retailer.",
+      "image": "/assets/product-2.jpg",
+      "price": null,
+      "affiliate_url": null,
+      "featured": 0,
+      "published": 0
+    },
+    {
+      "id": "builtin-3",
+      "name": "Classic Women's Wallet",
+      "category": "Wallets",
+      "category_slug": "bags-travel",
+      "description": "Explore this product and confirm its current details with the retailer.",
+      "image": "/assets/product-3.jpg",
+      "price": null,
+      "affiliate_url": null,
+      "featured": 0,
+      "published": 0
+    },
+    {
+      "id": "builtin-4",
+      "name": "Floral Phone Case",
+      "category": "Phone Cases",
+      "category_slug": "accessories",
+      "description": "Explore this product and confirm its current details with the retailer.",
+      "image": "/assets/product-4.jpg",
+      "price": null,
+      "affiliate_url": null,
+      "featured": 0,
+      "published": 0
+    },
+    {
+      "id": "builtin-5",
+      "name": "Everyday Comfort Sneakers",
+      "category": "Shoes",
+      "category_slug": "fashion",
+      "description": "Explore this product and confirm its current details with the retailer.",
+      "image": "/assets/product-5.jpg",
+      "price": null,
+      "affiliate_url": null,
+      "featured": 0,
+      "published": 0
+    },
+    {
+      "id": "builtin-6",
+      "name": "Travel Luggage Set",
+      "category": "Travel Bags",
+      "category_slug": "bags-travel",
+      "description": "Explore this product and confirm its current details with the retailer.",
+      "image": "/assets/product-6.jpg",
+      "price": null,
+      "affiliate_url": null,
+      "featured": 0,
+      "published": 0
+    },
+    {
+      "id": "builtin-7",
+      "name": "Everyday Accessories Set",
+      "category": "Accessories",
+      "category_slug": "accessories",
+      "description": "Explore this product and confirm its current details with the retailer.",
+      "image": "/assets/product-7.jpg",
+      "price": null,
+      "affiliate_url": null,
+      "featured": 0,
+      "published": 0
+    },
+    {
+      "id": "builtin-8",
+      "name": "Skincare Essentials",
+      "category": "Beauty & Self Care",
+      "category_slug": "beauty-self-care",
+      "description": "Explore this product and confirm its current details with the retailer.",
+      "image": "/assets/product-8.jpg",
+      "price": null,
+      "affiliate_url": null,
+      "featured": 0,
+      "published": 0
+    }
+  ]
+}
